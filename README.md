@@ -11,6 +11,7 @@ A machine learning project to predict weather parameters using historical meteor
 - Model evaluation
 - Streamlit web app
 - Interactive visualizations
+- adding the 'openweathermap' api
 
 ## Tech Stack
 - Python
