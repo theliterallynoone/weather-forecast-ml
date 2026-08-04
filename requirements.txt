@@ -1,0 +1,58 @@
+#THESE ARE SOME GENERAL REQUIREMENTS FOR ME (I GOT A NEW LAPTOP) AND WELL TO SAVE THE EFFORT OF DOWNLOADING STUFF AGAIN IM DOING THIS.
+# Core Scientific Computing
+numpy
+pandas
+scipy
+sympy
+# Visualization
+matplotlib
+plotly
+seaborn
+# Machine Learning
+scikit-learn
+ 
+# Deep Learning (Optional - Large Download)
+# tensorflow
+# torch
+# torchvision
+
+# Astrophysics
+astropy
+QuTip
+# Web Requests / APIs
+requests
+httpx
+# Streamlit
+streamlit
+# Environment Variables
+python-dotenv
+# Jupyter
+jupyter
+ipykernel
+# Image Processing
+Pillow
+opencv-python
+# Progress Bars
+tqdm
+# Utilities
+rich
+colorama
+tabulate
+# Data Formats
+openpyxl
+xlsxwriter
+# Web Scraping
+beautifulsoup4
+lxml
+# JSON Validation
+pydantic
+# Serial Communication (ESP32)
+pyserial
+micropython
+circuitpython
+cirq
+# Testing
+pytest
+# Code Formatting
+black
+isort
